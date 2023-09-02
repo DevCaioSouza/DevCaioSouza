@@ -2,7 +2,7 @@
 ### I'm a fullstack web developer, and Github is my main platform when it comes to sharing whatever i'm working on
 
 - 🔭 I’m currently working on: improve as a fullstack software developer / architect 
-- 🌱 I’m currently learning: NodeJS to further specialize in the "MEAN" stack
+- 🌱 I’m currently learning: NodeJS 
 - 👯 I’m looking to collaborate on: Open Source projects, or work as a volunteer 
 - 🤔 I’m looking for help with: anything that relates to what i've been working on
 - 💬 Ask me about whatever comes to mind
