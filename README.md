@@ -2,12 +2,11 @@
 ### I'm a fullstack web developer, and Github is my main platform when it comes to sharing whatever i'm working on
 
 - 🔭 I’m currently working on: improve as a fullstack software developer / architect 
-- 🌱 I’m currently learning: NodeJS 
+- 🌱 I’m currently learning: MVC architecture, Node 
 - 👯 I’m looking to collaborate on: Open Source projects, or work as a volunteer 
 - 🤔 I’m looking for help with: anything that relates to what i've been working on
 - 💬 Ask me about whatever comes to mind
 - 📫 You can reach me via Linkedin https://www.linkedin.com/in/dev-caio-souza/
-- ⚡ Fun fact: I'm a seasoned solo rock guitarist :D
 
 <!--
 **DevCaioSouza/DevCaioSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
