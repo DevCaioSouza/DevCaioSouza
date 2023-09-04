@@ -6,7 +6,9 @@
 - 👯 I’m looking to collaborate on: Open Source projects, or work as a volunteer 
 - 🤔 I’m looking for help with: anything that relates to what i've been working on
 - 💬 Ask me about whatever comes to mind
-- 📫 You can reach me via Linkedin https://www.linkedin.com/in/dev-caio-souza/
+- 📫 You can reach me via Linkedin https://www.linkedin.com/in/dev-caio-souza/.
+
+### PORTFOLIO: My projects can be visited here on my Github page, also on my Linkedin "projects" section 
 
 <!--
 **DevCaioSouza/DevCaioSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
