@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a fullstack web developer, and Github is my main platform when it comes to sharing whatever i'm working on
+### I'm a fullstack web developer, with 3 years of experience using Javascript to develop frontend and backend applications. Github is the main platform i use when i want to be sharing whatever i'm working on
 
 - 🔭 I’m currently working on: improve as a fullstack software developer / architect 
 - 🌱 I’m currently learning: MVC architecture, Node 
