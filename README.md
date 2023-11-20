@@ -2,8 +2,8 @@
 ### I'm a fullstack web developer, with 3 years of experience using mostly Javascript to develop frontend and backend applications. Github is the main platform i use when i want to be sharing whatever i'm working on
 ### I'm also going through a CS degree atm, the goal is to sharp my developer skills even further.
 
-- 🔭 I’m currently working on: improve as a fullstack software developer / architect 
-- 🌱 I’m currently learning: MVC architecture, Node 
+- 🔭 I’m currently working on: Going deeper in Angular (Javascript framework) and NodeJS hence building a solid Fullstack knowledge.
+- 🌱 I’m currently learning: Principles of software architecture and design patterns
 - 👯 I’m looking to collaborate on: Open Source projects, or work as a volunteer 
 - 🤔 I’m looking for help with: anything that relates to what i've been working on
 - 💬 Ask me about whatever comes to mind
