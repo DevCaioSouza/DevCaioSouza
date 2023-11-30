@@ -3,7 +3,8 @@
 ### I'm also going through a CS degree atm, the goal is to sharp my developer skills even further.
 
 - 🔭 I’m currently working on: Going deeper in Angular (Javascript framework) and NodeJS hence building a solid Fullstack knowledge.
-- 🌱 I’m currently learning: Principles of software architecture and design patterns
+- 🌱 Learning: Principles of software architecture and design patterns
+- 📖 Currently reading: Fundamentals of Software Architecture (FORD, Neil)
 - 👯 I’m looking to collaborate on: Open Source projects, or work as a volunteer 
 - 🤔 I’m looking for help with: anything that relates to what i've been working on
 - 💬 Ask me about whatever comes to mind
