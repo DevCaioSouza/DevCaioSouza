@@ -10,7 +10,9 @@
 - 💬 Ask me about whatever comes to mind
 - 📫 You can reach me via Linkedin https://www.linkedin.com/in/dev-caio-souza/.
 
-### PORTFOLIO: I'm currently building a website portfolio of my own. For now my projects can be visited here on my Github (Pinned), also on my Linkedin "projects" section 
+### PORTFOLIO: https://caio-souza-dev-portfolio.netlify.app/
+
+[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCaioSouza)](https://github.com/DevCaioSouza/github-readme-stats)
 
 <!--
 **DevCaioSouza/DevCaioSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
