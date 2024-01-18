@@ -12,7 +12,7 @@
 
 ### PORTFOLIO: https://caio-souza-dev-portfolio.netlify.app/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaioSouza&theme=highcontrast)](https://github.com/DevCaioSouza/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaioSouza&layout=compact&theme=cobalt)
 
 <!--
 **DevCaioSouza/DevCaioSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
