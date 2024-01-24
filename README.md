@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on: Going deeper in Angular (Javascript framework) and NodeJS hence building a solid Fullstack knowledge.
 - 🌱 Learning: Principles of software architecture and design patterns
+- 🌱 Currently Practicing : C# language and .NET platform usage
 - 📖 Currently reading: Fundamentals of Software Architecture (FORD, Neil)
 - 👯 I’m looking to collaborate on: Open Source projects, or work as a volunteer 
 - 🤔 I’m looking for help with: anything that relates to what i've been working on
