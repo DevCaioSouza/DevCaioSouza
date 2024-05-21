@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a fullstack web developer, with something around 4 years of experience using mostly Javascript's ecosystem related tools to develop frontend and backend applications. Github is the main platform i use when i want to be sharing whatever i'm working on
+### I'm an Application Developer whose specialization is to build frontend and backend applications, specially with: JavaScript (Frontend and backend) and C# (Fullstack web apps with ASPNet).
 
 - 🔭 I’m currently working on: Going deeper in Angular (Javascript framework) and NodeJS hence building a solid Fullstack knowledge.
 - 🌱 Learning: Principles of software architecture and design patterns
