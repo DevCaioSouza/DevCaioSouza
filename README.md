@@ -11,7 +11,7 @@
 - 💬 Ask me about whatever comes to mind
 - 📫 You can reach me via Linkedin https://www.linkedin.com/in/dev-caio-souza/.
 
-### PORTFOLIO: https://caio-souza-dev-portfolio.netlify.app/ (Outdated - Last modified on November 2023)
+### PORTFOLIO: https://caio-souza-dev-portfolio.netlify.app/ (11/2023)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaioSouza&layout=compact&theme=cobalt)
 
