@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm an Application Developer whose specialization is to build frontend and backend applications, specially with: JavaScript (Frontend and backend) and C# (Fullstack web apps with ASPNet).
+### I'm an Application Developer whose specialization is to build frontend and backend applications, specially with: TypeScript (Frontend and backend) and C# (Fullstack web apps with ASPNet).
 
 - 🔭 I’m currently working on: Going deeper in Angular (Javascript framework) and NodeJS hence building a solid Fullstack knowledge.
 - 🌱 Learning: Principles of software architecture and design patterns
