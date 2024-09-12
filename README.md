@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: Going deeper in Angular (Javascript framework) and NodeJS hence building a solid Fullstack knowledge.
 - 🌱 Learning: Principles of software architecture and design patterns
-- 🌱 Currently Practicing : Application building using C# and .NET Framework (ASPNet, Razor Pages, EF, etc)
+- 🌱 Currently Practicing : Microservices development
 - ❤️ I'm doing Leetcode challenges at the moment, it's been a lot of fun
 - 📖 Currently reading: Fundamentals of Software Architecture (FORD, Neil)
 - 👯 I’m looking to collaborate on: Open Source projects, or work as a volunteer 
